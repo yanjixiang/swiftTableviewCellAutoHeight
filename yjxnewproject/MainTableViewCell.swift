@@ -94,9 +94,7 @@ class MainTableViewCell: UITableViewCell ,UICollectionViewDataSource,UICollectio
             
             make.top.mas_equalTo()(self.detailL.mas_bottom)?.offset()(15);
             make.bottom.mas_equalTo()(self.contentView.mas_bottom)?.offset()(-15);
-            
             make.width.mas_equalTo()(UIScreen.main.bounds.size.width);
-            
             make.height.equalTo()(1.0)?.priority()
         }
         
@@ -256,27 +254,27 @@ class MainTableViewCell: UITableViewCell ,UICollectionViewDataSource,UICollectio
     //返回当前UIImageView显示的图片
     func photoBrowser(_ browser: SDPhotoBrowser!, placeholderImageFor index: Int) -> UIImage! {
         
-      
+        
         let imageView = UIImage.init(named: "zhanweitu")
-            
+        
         return imageView
         
         
     }
     
     //设置要显示图片资源的地址
-//    func photoBrowser(_ browser: SDPhotoBrowser!, highQualityImageURLFor index: Int) -> URL! {
-//
-//        let model = self.imgArr?[index]
-//
-//        let url = URL(string: model.storeBigImg!)
-//
-//        return url
-//
-//    }
+    //    func photoBrowser(_ browser: SDPhotoBrowser!, highQualityImageURLFor index: Int) -> URL! {
+    //
+    //        let model = self.imgArr?[index]
+    //
+    //        let url = URL(string: model.storeBigImg!)
+    //
+    //        return url
+    //
+    //    }
     
     
-
+    
     
     override func awakeFromNib() {
         super.awakeFromNib()

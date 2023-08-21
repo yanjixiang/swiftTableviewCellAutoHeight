@@ -16,7 +16,6 @@
 		C9B5DCCF2314CD45001CDF9B /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B5DCCE2314CD45001CDF9B /* MainVC.swift */; };
 		C9B5DCD12314F544001CDF9B /* MainTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B5DCD02314F544001CDF9B /* MainTableViewCell.swift */; };
 		C9B5DCD32314FC2B001CDF9B /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9B5DCD22314FC2B001CDF9B /* DataModel.swift */; };
-		C9C20DAF231528D100D07526 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = C9C20D93231528D100D07526 /* LICENSE */; };
 		C9C20DB0231528D100D07526 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20D96231528D100D07526 /* NSLayoutConstraint+MASDebugAdditions.m */; };
 		C9C20DB1231528D100D07526 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20D9F231528D100D07526 /* ViewController+MASAdditions.m */; };
 		C9C20DB2231528D100D07526 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20DA3231528D100D07526 /* MASCompositeConstraint.m */; };
@@ -27,7 +26,6 @@
 		C9C20DB7231528D100D07526 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20DAA231528D100D07526 /* MASConstraint.m */; };
 		C9C20DB8231528D100D07526 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20DAC231528D100D07526 /* MASViewConstraint.m */; };
 		C9C20DB9231528D100D07526 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20DAD231528D100D07526 /* MASViewAttribute.m */; };
-		C9C20DBA231528D100D07526 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C9C20DAE231528D100D07526 /* README.md */; };
 		C9C20DC02316229900D07526 /* ImgCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9C20DBF2316229900D07526 /* ImgCollectionViewCell.swift */; };
 		C9C20DC9231635D100D07526 /* SDPhotoBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20DC3231635D100D07526 /* SDPhotoBrowser.m */; };
 		C9C20DCA231635D100D07526 /* SDWaitingView.m in Sources */ = {isa = PBXBuildFile; fileRef = C9C20DC4231635D100D07526 /* SDWaitingView.m */; };
@@ -84,7 +82,6 @@
 		C9B5DCCE2314CD45001CDF9B /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		C9B5DCD02314F544001CDF9B /* MainTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTableViewCell.swift; sourceTree = "<group>"; };
 		C9B5DCD22314FC2B001CDF9B /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
-		C9C20D93231528D100D07526 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		C9C20D95231528D100D07526 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
 		C9C20D96231528D100D07526 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
 		C9C20D97231528D100D07526 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
@@ -110,8 +107,7 @@
 		C9C20DAB231528D100D07526 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
 		C9C20DAC231528D100D07526 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
 		C9C20DAD231528D100D07526 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
-		C9C20DAE231528D100D07526 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		C9C20DBC23152A8500D07526 /* yjxnewproject-Brdging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "yjxnewproject-Brdging-Header.h"; sourceTree = "<group>"; };
+		C9C20DBC23152A8500D07526 /* yjxnewproject-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "yjxnewproject-Bridging-Header.h"; sourceTree = "<group>"; };
 		C9C20DBF2316229900D07526 /* ImgCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImgCollectionViewCell.swift; sourceTree = "<group>"; };
 		C9C20DC2231635D100D07526 /* SDPhotoBrowserConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDPhotoBrowserConfig.h; sourceTree = "<group>"; };
 		C9C20DC3231635D100D07526 /* SDPhotoBrowser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDPhotoBrowser.m; sourceTree = "<group>"; };
@@ -185,7 +181,6 @@
 		C9B5DC922314C5B8001CDF9B = {
 			isa = PBXGroup;
 			children = (
-				C9C20DBC23152A8500D07526 /* yjxnewproject-Brdging-Header.h */,
 				C9B5DC9D2314C5B8001CDF9B /* yjxnewproject */,
 				C9B5DCB22314C5B9001CDF9B /* yjxnewprojectTests */,
 				C9B5DCBD2314C5B9001CDF9B /* yjxnewprojectUITests */,
@@ -206,6 +201,7 @@
 		C9B5DC9D2314C5B8001CDF9B /* yjxnewproject */ = {
 			isa = PBXGroup;
 			children = (
+				C9C20DBC23152A8500D07526 /* yjxnewproject-Bridging-Header.h */,
 				C9C20DFE2316382100D07526 /* Tools */,
 				C9C20D91231528D100D07526 /* ThirdLib */,
 				C9B5DC9E2314C5B8001CDF9B /* AppDelegate.swift */,
@@ -252,9 +248,7 @@
 		C9C20D92231528D100D07526 /* Masonry */ = {
 			isa = PBXGroup;
 			children = (
-				C9C20D93231528D100D07526 /* LICENSE */,
 				C9C20D94231528D100D07526 /* Masonry */,
-				C9C20DAE231528D100D07526 /* README.md */,
 			);
 			path = Masonry;
 			sourceTree = "<group>";
@@ -468,8 +462,6 @@
 			files = (
 				C9B5DCA92314C5B9001CDF9B /* LaunchScreen.storyboard in Resources */,
 				C9B5DCA62314C5B9001CDF9B /* Assets.xcassets in Resources */,
-				C9C20DBA231528D100D07526 /* README.md in Resources */,
-				C9C20DAF231528D100D07526 /* LICENSE in Resources */,
 				C9B5DCA42314C5B8001CDF9B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -705,16 +697,17 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 68VVHD6ZCQ;
+				DEVELOPMENT_TEAM = 3ZAU76VQ4Y;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = yjxnewproject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.YJXCreateTheNewProject.yjxnewproject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/yanjixiang/Desktop/yjxnewproject/yjxnewproject-Brdging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(PROJECT_DIR)/yjxnewproject/yjxnewproject-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -725,16 +718,17 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 68VVHD6ZCQ;
+				DEVELOPMENT_TEAM = 3ZAU76VQ4Y;
 				FRAMEWORK_SEARCH_PATHS = "$(SRCROOT)/**";
 				INFOPLIST_FILE = yjxnewproject/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.YJXCreateTheNewProject.yjxnewproject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "/Users/yanjixiang/Desktop/yjxnewproject/yjxnewproject-Brdging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "$(PROJECT_DIR)/yjxnewproject/yjxnewproject-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
